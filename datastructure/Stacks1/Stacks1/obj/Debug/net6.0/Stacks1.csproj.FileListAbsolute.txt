@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Stacks1\Stacks1\bin\Debug\net6.0\Stacks1.exe
+C:\Users\dell\source\repos\Stacks1\Stacks1\bin\Debug\net6.0\Stacks1.deps.json
+C:\Users\dell\source\repos\Stacks1\Stacks1\bin\Debug\net6.0\Stacks1.runtimeconfig.json
+C:\Users\dell\source\repos\Stacks1\Stacks1\bin\Debug\net6.0\Stacks1.dll
+C:\Users\dell\source\repos\Stacks1\Stacks1\bin\Debug\net6.0\Stacks1.pdb
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.AssemblyInfo.cs
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.dll
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\refint\Stacks1.dll
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.pdb
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\Stacks1.genruntimeconfig.cache
+C:\Users\dell\source\repos\Stacks1\Stacks1\obj\Debug\net6.0\ref\Stacks1.dll
